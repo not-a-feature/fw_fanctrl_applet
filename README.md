@@ -41,3 +41,19 @@ Once installed, click on the applet icon in your panel to open the menu. The men
 ## Dependencies
 
 This applet requires [fw-fanctrl](https://github.com/TamtamHero/fw-fanctrl) to control the fan speed.
+
+## License
+```
+Copyright (C) 2023 by Jules Kreuer - @not_a_feature
+This piece of software is published unter the GNU General Public License v3.0
+TLDR:
+
+| Permissions      | Conditions                   | Limitations |
+| ---------------- | ---------------------------- | ----------- |
+| ✓ Commercial use | Disclose source              | ✕ Liability |
+| ✓ Distribution   | License and copyright notice | ✕ Warranty  |
+| ✓ Modification   | Same license                 |             |
+| ✓ Patent use     | State changes                |             |
+| ✓ Private use    |                              |             |
+```
+Go to [LICENSE.md](https://github.com/not-a-feature/fw_fanctrl_applet/blob/main/LICENSE) to see the full version.
