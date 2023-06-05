@@ -13,6 +13,7 @@ const UUID = "fw_fanctrl@juleskreuer.eu";
 const APPLET_DIR = imports.ui.appletManager.appletMeta[UUID].path;
 
 const STRATEGY = {
+    // Visual Name : ['name of fw-fanctrl strategy', 'icon-name']
     'Lazyest': ['lazyest', 'weather-clear-night'],
     'Lazy': ['lazy', 'weather-clear-night'],
     'Medium': ['medium', 'computer'],
