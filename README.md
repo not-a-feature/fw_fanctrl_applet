@@ -11,7 +11,7 @@
     - Right click on the menu bar.
     - Open "Applets".
     - Click on "Download" tab.
-    - Search for "Framework fanCTRL".
+    - Search for "Framework FanCTRL".
     - Click on the install icon next to the applet name.
 
 The applet should now be available in your Applets settings panel. Add it to your panel to start using it.
@@ -70,7 +70,7 @@ To add your custom strategy from fw-fanctrl to this applet, edit the `settings-s
         "description": "Icon for '<Label for NAME>'"
     },
     ```
-- Reload the Applet
+- Reload the Applet (Hamburger menu top right)
 
 
 
