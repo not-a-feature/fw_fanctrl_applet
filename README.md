@@ -5,7 +5,9 @@
 <img src="https://github.com/not-a-feature/fw_fanctrl_applet/raw/main/screenshot.png" width=400></img>
 
 ## Installation
-Make sure [fw-fanctrl](https://github.com/TamtamHero/fw-fanctrl) is installed.
+- Make sure [fw-fanctrl](https://github.com/TamtamHero/fw-fanctrl) is installed:
+- For regular users, install it with the `--no-sudo` flag.
+
 ### Via Cinnamon Applet Store
 
     - Right click on the menu bar.
@@ -81,7 +83,7 @@ This applet requires [fw-fanctrl](https://github.com/TamtamHero/fw-fanctrl) to c
 
 ## License
 ```
-Copyright (C) 2023 by Jules Kreuer - @not_a_feature
+Copyright (C) 2025 by Jules Kreuer - @not_a_feature
 This piece of software is published unter the GNU General Public License v3.0
 TLDR:
 
