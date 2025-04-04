@@ -91,7 +91,7 @@ class FW_CONTROL extends Applet.TextIconApplet {
     }
 
     activateStrategy(strategy) {
-        Util.spawnCommandLine("fw-fanctrl run" + strategy);
+        Util.spawnCommandLine("fw-fanctrl use " + strategy);
         this.menu.close();
     }
 }
