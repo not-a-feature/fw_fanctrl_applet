@@ -94,7 +94,7 @@
     },
     "very-agile-icon": {
         "type": "iconfilechooser",
-        "default": "compile",
+        "default": "mail-send-symbolic",
         "description": "Icon for 'Very Agile'"
     },
 
