@@ -14,7 +14,7 @@ const AppletSettings = imports.ui.settings;
 const UUID = "fw_fanctrl@juleskreuer.eu";
 const APPLET_DIR = imports.ui.appletManager.appletMeta[UUID].path;
 
-class FW_CONTROL extends Applet.TextIconApplet {
+class FW_CONTROL extends Applet.IconApplet {
     constructor(metadata, orientation, panel_height, instance_id) {
         super(orientation, panel_height, instance_id);
         this.applet_dir = metadata.path;
