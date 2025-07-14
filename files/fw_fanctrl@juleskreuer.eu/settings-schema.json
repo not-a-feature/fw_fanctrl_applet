@@ -4,7 +4,7 @@
         "description": "Framework FanCTRL - Fan Strategy Control Applet for Cinnamon \n\nList of valid strategies:"
     },
 
-    "strategies" : ["sleep", "lazyest", "lazy", "medium", "agile", "very-agile", "deaf", "aeolus"],
+    "strategies" : ["sleep", "laziest", "lazy", "medium", "agile", "very-agile", "deaf", "aeolus"],
 
     "sleep-label": {
         "type": "header",
@@ -22,16 +22,16 @@
     },
 
 
-    "lazyest-label": {
+    "laziest-label": {
         "type": "header",
         "description": "Laziest"
     },
-    "lazyest": {
+    "laziest": {
         "type": "checkbox",
         "default": false,
         "description": "Visible"
     },
-    "lazyest-icon": {
+    "laziest-icon": {
         "type": "iconfilechooser",
         "default": "weather-clear-night",
         "description": "Icon for 'Laziest'"
